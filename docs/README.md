@@ -2,9 +2,15 @@
 
 **Nomspots** is food finder app that will allow users to find food items they have never tried before.
 
+[Click here to get the Android apk.](https://github.com/jyanghua/Nomspots/blob/master/docs/Nomspots-debug.apk).
+
+
 Time spent (up until this day):
+
 **2** hours setting up dependencies, Firebase configuration, adding dummy data
+
 **6** hours learning Kotlin and reading documentation of libraries
+
 **14** hours programming and debugging
 
 ## User Stories
