@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#606060</color>
+    <color name="colorBackgroundLight">#ffffff</color>
+    <color name="colorSecondaryLight">#fafafa</color>
+    <color name="textPrimaryLight">#000000</color>
+    <color name="textSecondaryLight">#FFFFFF</color>
+    <color name="buttonPrimaryLight">#000000</color>
+    <color name="buttonSecondaryLight">#F1F1F1</color>
+    <color name="colorAccent">#FF4E35</color>
+    <color name="transparent">#00000000</color>
+</resources>

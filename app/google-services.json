@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839068290453",
+    "firebase_url": "https://nomspots-f1049.firebaseio.com",
+    "project_id": "nomspots-f1049",
+    "storage_bucket": "nomspots-f1049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839068290453:android:f95917b800a5419ff6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.nomspots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839068290453-rec5pei0eh66905rfmhbnn7gqg7ktfbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nomspots",
+            "certificate_hash": "7c0aa2cf4e7761c30870b527673b49a7f98a2f56"
+          }
+        },
+        {
+          "client_id": "839068290453-76lff8qo7hsnc51ar0h3qa9pkfas6l13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgy7t_bRl6KrIE6PnBcUi2MsCE_M80bAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839068290453-76lff8qo7hsnc51ar0h3qa9pkfas6l13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

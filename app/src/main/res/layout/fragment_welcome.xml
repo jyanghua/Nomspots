@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/tv_nomspots"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="120dp"
+            android:fontFamily="@font/timmana"
+            android:includeFontPadding="false"
+            android:text="@string/nomspots"
+            android:textAllCaps="true"
+            android:textColor="@color/textSecondaryLight"
+            android:textSize="46sp" />
+
+        <ImageView
+            android:id="@+id/ivAuthLogo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/tv_nomspots"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:contentDescription="@string/logo"
+            android:tint="@color/colorSecondaryLight"
+            app:srcCompat="@drawable/ic_logo" />
+
+        <Button
+            android:id="@+id/btnCreateNewAccountWelcome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivAuthLogo"
+            android:layout_marginTop="50dp"
+            android:height="60dp"
+            android:backgroundTint="@color/colorSecondaryLight"
+            android:text="@string/create_new_account"
+            android:textAllCaps="false"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvLogInWelcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnCreateNewAccountWelcome"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:text="@string/log_in"
+            android:textColor="@color/textSecondaryLight"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</layout>
