@@ -2,7 +2,7 @@
 
 **Nomspots** is food finder app that will allow users to find food items they have never tried before.
 
-[Click here to get the Android apk.](https://github.com/jyanghua/Nomspots/blob/master/docs/Nomspots-debug.apk).
+[Click here to get the Android apk](https://github.com/jyanghua/Nomspots/blob/master/docs/Nomspots-debug.apk?raw=true).
 
 
 Time spent (up until this day):
